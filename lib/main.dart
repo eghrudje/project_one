@@ -14,7 +14,7 @@ class HomeScreen extends StatelessWidget {
         child: Stack(
           children: <Widget>[
             Container(
-              height: 300,
+              height: 350,
               color: Colors.blue,
               child: Padding(
                 padding: const EdgeInsets.all(12.0),
